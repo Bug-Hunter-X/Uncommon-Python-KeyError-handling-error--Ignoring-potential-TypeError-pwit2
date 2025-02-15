@@ -1,0 +1,3 @@
+# Uncommon Python Error: Handling KeyError and TypeError
+This repository demonstrates a common Python coding error related to dictionary key access and how to improve it. The `bug.py` file contains a function that attempts to access a dictionary key without checking for its existence or whether the input is a dictionary.  This may cause a `KeyError` or `TypeError` to be raised.
+The `bugSolution.py` file provides a more robust solution that handles these exceptions correctly, making the code more resilient to unexpected input.  This example highlights the importance of comprehensive error handling in Python to prevent unexpected program crashes and improve overall stability. 
